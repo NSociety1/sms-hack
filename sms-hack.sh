@@ -1,5 +1,3 @@
-#/bin/bash
-
 # LOADER
 LOADER() {
 echo -e "${YELLOW}#${RESET}"
